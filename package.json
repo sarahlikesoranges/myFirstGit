@@ -1,0 +1,19 @@
+{
+  "name": "sarahsnewgitproject",
+  "version": "1.0.0",
+  "description": "week 2 workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahlikesoranges/myFirstGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahlikesoranges/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/sarahlikesoranges/myFirstGit#readme"
+}
