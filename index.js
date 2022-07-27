@@ -1,1 +1,6 @@
-console.log('I caused a merge conflict.');
+console.log('hello world');
+
+addnumbers = (x,y) => {return (x + y)};
+
+console.log(addnumbers(5,10));
+
