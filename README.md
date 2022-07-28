@@ -2,6 +2,8 @@
 ## **week 2 lab**
 - pull to local
 - run fron index.js
+
+
 | week  | topic |
 | ------------- | ------------- |
 | Week 1  | Introduction to NodeJS  |
