@@ -2,7 +2,8 @@
 ## **week 2 lab**
 - pull to local
 - run fron index.js
-
+week | topic
+------|-----------------------------------------------------
 -  Week 1. Introduction to NodeJS
 -  Week 2. Managing source control with version system
 -  Week 3. Mean Stack and serving static content
