@@ -1,5 +1,5 @@
-#My First Git
-##**week 2 lab**
+# My First Git
+## **week 2 lab**
 - pull to local
 - run fron index.js
 
